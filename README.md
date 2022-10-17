@@ -7,4 +7,4 @@
 
 ## 装修黑名单
 
-* [黑名单](./blacklist/README_CN.md)
+* [黑名单](./blacklist/README.md)
